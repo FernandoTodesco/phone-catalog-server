@@ -7,3 +7,9 @@ clone repo and run
 ```
 npm i
 ```
+
+then run
+
+```
+npm run start
+```
